@@ -4,3 +4,6 @@
 [submodule "src/noto-nastaliq-urdu"]
 	path = src/noto-nastaliq-urdu
 	url = https://github.com/chrissimpkins/noto-nastaliq-urdu.git
+[submodule "src/noto-sans"]
+	path = src/noto-sans
+	url = https://github.com/chrissimpkins/noto-sans.git
