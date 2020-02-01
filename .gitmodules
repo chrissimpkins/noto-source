@@ -1,3 +1,6 @@
 [submodule "Lib/fontmake"]
 	path = scripts/fontmake
 	url = https://github.com/googlefonts/fontmake.git
+[submodule "src/noto-nastaliq-urdu"]
+	path = src/noto-nastaliq-urdu
+	url = https://github.com/chrissimpkins/noto-nastaliq-urdu.git
